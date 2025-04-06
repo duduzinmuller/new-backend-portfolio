@@ -1,0 +1,20 @@
+{
+  "name": "new-backend-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx --watch ./src/server.ts"
+  },
+  "keywords": [],
+  "author": "Eduardo Muller",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.3"
+  }
+}
